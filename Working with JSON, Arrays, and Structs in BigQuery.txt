@@ -1,3 +1,6 @@
+Working with JSON, Arrays, and Structs in BigQuery,
+Solution copy this code and paste it on google cloud shell
+
 BLACK=`tput setaf 0`
 RED=`tput setaf 1`
 GREEN=`tput setaf 2`
